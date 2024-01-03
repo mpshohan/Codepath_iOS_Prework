@@ -15,8 +15,6 @@ The following **required** functionality is completed:
  
 ## Video Walkthrough
 - App demo gif
-- 
-![Uploading Kapture 2024-01-03 at 15.10.20.gif…]()
 
   
 
