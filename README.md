@@ -27,7 +27,11 @@ Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove th
   4. Google Maps - Updated Location Info, Map UI, Accurate Routes
 
 - App Idea:
-  ....will come back to it 
+  A blog post / journal entry app. It will be a versatile mobile app designed for both bloggers and
+  journal enthusiasts, allowing a combination of public expressions and private reflections. There will be
+  componenets for both blogging and journal entry with seemless integration, so users switch between them as
+  they prefer. Users can also part of communities within the app, should they choose to, while still being an
+  independent account. 
 
 ## Notes
 
