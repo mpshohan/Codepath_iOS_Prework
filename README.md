@@ -15,7 +15,7 @@ The following **required** functionality is completed:
  
 ## Video Walkthrough
 - App demo gif
-
+(https://github.com/mpshohan/Codepath_iOS_Prework/assets/122324888/929e2f79-3f05-48a2-904b-b1e3a0730cf7)
   
 
 Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
