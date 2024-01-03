@@ -15,7 +15,7 @@ The following **required** functionality is completed:
  
 ## Video Walkthrough
 - App demo gif
-![](https://imgur.com/a/Ww4Afhm.gif)
+(https://imgur.com/a/Ww4Afhm.gif)
 
 Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
 
