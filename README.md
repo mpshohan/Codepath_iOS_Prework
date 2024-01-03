@@ -1,10 +1,10 @@
-# Prework - *Name of App here*
+# Prework - *IOS 101 Prework*
 
-Submitted by: **Your Name Here**
+Submitted by: ** Md Patwary **
 
-**Name of your app** is an app that... [TODO] 
+This is an app that changes background color when you click on the button named "Change Background"
 
-Time spent: **X** hours spent in total
+Time spent: 3 hours spent in total
 
 ## Required Features
 
@@ -14,6 +14,8 @@ The following **required** functionality is completed:
 - [ ] Tapping the button changes the screen color to a random color
  
 ## Video Walkthrough
+- App demo gif
+![](https://imgur.com/a/Ww4Afhm.gif)
 
 Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
 
